@@ -24,6 +24,8 @@ public class exampledaythree {
 
 - remainder- Arithmatic operators and various  operators for java
 
+- Java logical Operators
+
 */
 
 System.out.println(7%2);
